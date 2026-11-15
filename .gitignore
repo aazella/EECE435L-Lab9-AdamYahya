@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Coverage data file (the HTML reports in htmlcov*/ are kept on purpose)
+.coverage
+
+# Profiler output files
+*.lprof
+*.prof
+mprofile_*.dat
+
+# macOS / Office
+.DS_Store
+~$*
